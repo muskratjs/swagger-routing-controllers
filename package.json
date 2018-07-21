@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/muskratjs/swagger-routing-controllers/issues"
   },
-  "homepage": "https://github.com/muskratjs/swagger-routing-controllers#readme"
+  "homepage": "https://github.com/muskratjs/swagger-routing-controllers#readme",
+  "peerDependencies": {
+    "muskrat": "^0.0.4"
+  }
 }
